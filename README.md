@@ -5,7 +5,8 @@ I am Sebastián Cervantes and this an pokedex mobile aplication for android.
 Below you can wathch how the login form works. For build it I used Firebase authentication service.
 
 
-- The login looks like this: 
+- The login looks like this:
+
 ![login](https://github.com/Sebascerboni/pokedex/assets/90151064/d558f1a1-47fc-49c8-a3ff-a8b6c46c52ed)
 
 -When you try to log in with incorrect username or password then you will wath the next:
