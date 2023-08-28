@@ -1,16 +1,20 @@
-# pokedex_mobile
+# Pokedex an mobile app
 
-A new Flutter project.
+Hi, this is a Pokedex mobile aplication. I consumed the **_Pokemon API_** to get all **First Generation Pokemons** that you will see on it.
 
-## Getting Started
+I implement a login form with Firebase authentication service
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## **How the login work?**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is how the form looks like:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![login](https://github.com/Sebascerboni/pokedex/assets/90151064/e0d3f640-ba35-496c-a5a0-d71b45382bd1)
+
+When you try to get into the app with incorrect credentials you will watch the same form but with a pop up error message like this:
+
+![login_incorrecto](https://github.com/Sebascerboni/pokedex/assets/90151064/8717a38f-6ec6-4519-9257-c9b69865a340)
+
+And when you get into the app will wath the home screen
+
+![login_correcto](https://github.com/Sebascerboni/pokedex/assets/90151064/a3d23dcd-b42e-411c-9bf1-d7d3430264fd)
